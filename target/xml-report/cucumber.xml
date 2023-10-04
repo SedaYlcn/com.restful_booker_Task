@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.266" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US_001 Admin Login Panel" name="TC_01 User login to admin panel with a valid log in details" time="7.104">
+<system-out><![CDATA[
+Given I navigate to the admin panel page....................................passed
+When I enter valid "adminUsername" and "adminPassword"......................passed
+Then I log into the panel...................................................passed
+And The "B&B Booking Management" is displayed...............................passed
+When I can Logout from the page.............................................passed
+Then Login button is displayed..............................................passed
+And I closed the page.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
