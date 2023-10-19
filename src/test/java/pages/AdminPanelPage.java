@@ -15,7 +15,7 @@ public class AdminPanelPage extends BasePage {
     private WebElement adminLogin;
     @FindBy(xpath = "//a[normalize-space()='B&B Booking Management']")
     private WebElement adminLoginPage;
-    @FindBy(xpath = "//a[normalize-space()='Logout']\n")
+    @FindBy(xpath = "//a[normalize-space()='Logout']")
     private WebElement adminlogout;
 
 
