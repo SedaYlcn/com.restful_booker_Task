@@ -5,7 +5,7 @@ public class Github_Review {
     /*
     1 -  Copy the link from github
 
-    2 - Intellij  ==> file ==>  new project ==> preject from version control ==> past the link
+    2 - Intellij  ==> file ==>  new project ==> project from version control ==> past the link
 
     3 - Open terminal and great your branch
         git branch gulsah
